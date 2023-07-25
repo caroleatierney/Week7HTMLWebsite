@@ -7,16 +7,14 @@ I borrowed In Easy Steps HTML from the Library for ideas and hints
 
 I am using my README to help structure the website
 
-## The website needs 3 pages
+## The website needs at least 3 pages
 
-(Monday)
-Can you create folders in Imgur
+## 2 different size headers, a list, 3 images, a table, and a form.
 
-(Monday)
-A Nav bar with links to 3 html pages - pg 3
+## A Nav bar with links to 3 html pages
     pg 70  - pointer access keys
 
-(Monday)
+(Tuesday)
 Page 1: The story of how we got Nina
     A little styling - pg 22
     Use line breaks
