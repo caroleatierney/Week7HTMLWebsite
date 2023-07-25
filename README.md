@@ -37,4 +37,12 @@ Add a table? pg 84
     Need to do 2 LinkedIn posts
     Need to do research
 
- 5:00 - 6:00
+ 5:00 - 6:00 mon    11:30-3, 3:30-4:30 tue
+    <a href="https://imgur.com/blovDlU"><img src="https://i.imgur.com/blovDlU.jpg" title="Christmas Puff" /></a>
+    <a href="https://imgur.com/gVrlS4x"><img src="https://i.imgur.com/gVrlS4x.jpg" title="My Peeps" /></a>
+    <a href="https://imgur.com/kZKuCsN"><img src="https://i.imgur.com/kZKuCsN.jpg" title="Baby Demi" /></a>
+    <a href="https://imgur.com/2iA6skI"><img src="https://i.imgur.com/2iA6skI.jpg" title="Tongue Out" /></a>
+    <a href="https://imgur.com/QnL6GES"><img src="https://i.imgur.com/QnL6GES.jpg" title="Reading Time" /></a>
+    <a href="https://imgur.com/aXampAc"><img src="https://i.imgur.com/aXampAc.jpg" title="Snuggle Time" /></a>
+    <a href="https://imgur.com/sh9qiMe"><img src="https://i.imgur.com/sh9qiMe.jpg" title="Awkward Watching" /></a>
+    <a href="https://imgur.com/DfuPBaq"><img src="https://i.imgur.com/DfuPBaq.jpg" title="More Snuggling" /></a>
