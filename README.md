@@ -20,4 +20,4 @@
     need video and photos uploaded - comments on how to doo it - why isn't it working?
     comments
     update readme
-    pointer style? Hand? etc.
+    pointer style? Hand? etc. <span style="cursor: crosshair"></span>
