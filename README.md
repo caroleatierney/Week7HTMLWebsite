@@ -12,7 +12,7 @@
 - https://catzwebz.imgur.com/
 
 ### I borrowed In Easy Steps HTML from the Library for ideas and hints
-- link: https://www.amazon.com/HTML-easy-steps-Mike-McGrath/dp/1840788763
+- https://www.amazon.com/HTML-easy-steps-Mike-McGrath/dp/1840788763
 
 (Wednesday)
     Need to do 2 LinkedIn posts
