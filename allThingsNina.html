@@ -21,7 +21,7 @@
 
         <main style="color:white;"> <!-- Define ordered list -->
             <section>
-                <h1>Nina's favorite things to do</h1>
+                <h1 style="font-size: 25px; color:#0d393b;"">Nina's favorite things to do</h1>
                 <ol>
                     <li>One for You, one for me with Nana</li>
                     <li>Play glow ball</li>
@@ -34,27 +34,33 @@
             <hr>
 
             <table style="border: 5px solid white;"> <!-- Define Table with links inside -->
-                <caption>Nina's favorite toy and apparatus links</caption>
-                <tr style="background:pink;"><th>Toy<th>Brand<th>Shopping Link<th>Notes</tr> <!--Column Headings-->
-                <tr style="background:pink;"><th>Glow Ball<td>Chuckit<td><a style="color:white;" href="https://www.chewy.com/chuckit-max-glow-ball-dog-toy/dp/149920">Glow Ball Shopping URL</a><td>Get a bunch! They vanish!</tr> <!--Column Headings-->
-                <tr style="background:pink;"><th>Frisbee<td>Chuckit<td><a style="color:white;" href="https://www.chewy.com/chuckit-zipflight-disc-dog-toy-color/dp/38376?utm_source=google-product&utm_medium=cpc&utm_campaign=19996370614&utm_content=Chuckit%21&utm_term=&gclid=Cj0KCQjw5f2lBhCkARIsAHeTvlhTOhaxxaCdsciFqFOamRl3P_3MJ_jhOQjj0qhupFFTviuB-l2ffFkaAr9VEALw_wcB">Frisbee Shopping URL</a><td>Buy multiple!</tr> <!--Row 1 with label-->
-                <tr style="background:pink;"><th>Trumpty Dumpty<td>Pupperoni Pizza<td>Amazon - no longer available<td>Reached out to company - never heard back</tr> <!--Row 2 with label-->
-                <tr style="background:pink;"><th>Demogordon<td>Bark<td><a style="color:white;" href="https://www.ebay.com/itm/255931396071">Demogordon Shopping URL</a><td>No longer available at Kohls</tr> <!--Row 3 with label-->
-                <tr style="background:pink;"><th>Lamb Chop<td>Multipet International, Inc.<td><a style="color:white;" href="https://www.amazon.com/gp/product/B003XVYKVI/ref=sw_img_1?smid=ATVPDKIKX0DER&th=1">Lamb Chop URL</a><td>Time to buy a new one!</tr> <!--Row 4 with label-->
-                <tr style="background:pink;"><th>Shark Life Jacket<td>Glorius Kek<td><a style="color:white;" href="https://www.aliexpress.us/item/2251832694252442.html?gatewayAdapt=glo2usa4itemAdapt">Shark Life Shopping URL</a><td>I found mine on a local Facebook Yardsale</tr> <!--Row 5 with label-->
+                <caption style="font-size: 25px; color:#0d393b;">Nina's favorite toy and apparatus links</caption>
+                <tr style="background:pink;"><th style="background-color:#1e787d">Toy<th style="background-color:#1e787d">Brand<th style="background-color:#1e787d">Shopping Link<th style="background-color:#1e787d">Notes</tr> <!--Column Headings-->
+                <tr style="background:pink;"><th style="background-color:#1e787d">Glow Ball<td>Chuckit<td><a style="color:white;" href="https://www.chewy.com/chuckit-max-glow-ball-dog-toy/dp/149920">Glow Ball Shopping URL</a><td>Get a bunch! They vanish!</tr> <!--Column Headings-->
+                <tr style="background:pink;"><th style="background-color:#1e787d">Frisbee<td>Chuckit<td><a style="color:white;" href="https://www.chewy.com/chuckit-zipflight-disc-dog-toy-color/dp/38376?utm_source=google-product&utm_medium=cpc&utm_campaign=19996370614&utm_content=Chuckit%21&utm_term=&gclid=Cj0KCQjw5f2lBhCkARIsAHeTvlhTOhaxxaCdsciFqFOamRl3P_3MJ_jhOQjj0qhupFFTviuB-l2ffFkaAr9VEALw_wcB">Frisbee Shopping URL</a><td>Buy multiple!</tr> <!--Row 1 with label-->
+                <tr style="background:pink;"><th style="background-color:#1e787d">Trumpty Dumpty<td>Pupperoni Pizza<td>Amazon - no longer available<td>Can't find anywhere! Reached out to company - never heard back!</tr> <!--Row 2 with label-->
+                <tr style="background:pink;"><th style="background-color:#1e787d">Demogordon<td>Bark<td><a style="color:white;" href="https://www.ebay.com/itm/255931396071">Demogordon Shopping URL</a><td>No longer available at Kohls!</tr> <!--Row 3 with label-->
+                <tr style="background:pink;"><th style="background-color:#1e787d">Lamb Chop<td>Multipet International, Inc.<td><a style="color:white;" href="https://www.amazon.com/gp/product/B003XVYKVI/ref=sw_img_1?smid=ATVPDKIKX0DER&th=1">Lamb Chop URL</a><td>Time to buy a new one!</tr> <!--Row 4 with label-->
+                <tr style="background:pink;"><th style="background-color:#1e787d">Shark Life Jacket<td>Glorius Kek<td><a style="color:white;" href="https://www.aliexpress.us/item/2251832694252442.html?gatewayAdapt=glo2usa4itemAdapt">Shark Life Shopping URL</a><td>I found mine on a local Facebook Yardsale!</tr> <!--Row 5 with label-->
             </table>
-            <hr>
+            <br> <hr>
 
-            <h2>Please complete this survey about your pets</h2>
-            <dl> <!-- Define form -->
-                <dt>Your Full Name:
-                <dd><input type = "text" full name = "Full Name" required>
-                <dt>Your Pet's Full Names:
-                <dd><input type = "text" full name="Pets' Full Name" required>
-                <dt>What type of pets do you own?:
-                <dd><input type = "text" full name="Type of pets" required>
-            </dl>
-            <input type="submit" name="form" value = "Submit Questionaire">
+            <form>
+                <h2>Please complete this survey about your pets</h2>
+                <!-- name attribute is how we refer to the value entered -->
+                <input type="text" name= "fullName" placeholder="Your Full Name"> <br>
+                <input type="text" name= "petsFullName" placeholder="Your Pet's Full Name(s)"> <br>
+                Do you have any of these pets? <br>
+                <input type="radio" name="typeOfPets" value="Dog"> Dog <br>
+                <input type="radio" name="typeOfPets" value="Cat"> Cat <br>
+                <input type="radio" name="typeOfPets" value="Bunny"> Bunny <br>
+                <input type="radio" name= "typeOfPets" value="Guinea Pig"> Guinea Pig <br>
+                <input type="radio" name="typeOfPets" value="Fish"> Fish <br>
+                <input type="submit" value = "Submit Questionaire"> <br>
+            </form>
+
+            <br> <hr> <br> 
+            <button> Click me if you want your own pet website!</button>
 
     </main>
         <footer> <!-- Define Footer -->
