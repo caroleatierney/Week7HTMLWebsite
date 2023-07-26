@@ -15,9 +15,11 @@
 - https://www.amazon.com/HTML-easy-steps-Mike-McGrath/dp/1840788763
 
 (Wednesday)
-    Need to do 2 LinkedIn posts
-    Need to do research                       
-    need video and photos uploaded - comments on how to doo it - why isn't it working?
-    comments
-    update readme
-    pointer style? Hand? etc. <span style="cursor: crosshair"></span>
+1) comments
+2) video and submit
+3) Need to do research     
+4) Need to do 2 LinkedIn posts
+
+ Wednesday: Start css week:
+    pointer style? Hand? etc. <span style="cursor: crosshair"></span> do for css
+    need video and photos uploaded - comments on how to doo it - why isn't it working?q
